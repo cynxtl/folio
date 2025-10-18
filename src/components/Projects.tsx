@@ -30,7 +30,7 @@ export function Projects() {
     },
     {
       name: 'Digital Well-Being Diary',
-      description: 'AI-powered wellness tracking app built for the Bolt.new Hackathon to promote mindfulness and digital balance using mood prediction and journaling analytics.',
+      description: 'AI-powered wellness tracking app built for a hackathon to promote mindfulness and digital balance using mood prediction and journaling analytics.',
       tech: ['React.js', 'FastAPI', 'OpenAI API', 'Firebase'],
       github: 'https://github.com/yourusername/digital-wellbeing-diary',
     },
