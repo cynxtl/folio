@@ -14,13 +14,13 @@ export function Projects() {
       name: 'AI-Based Legal Chatbot',
       description: 'Retrieval-augmented chatbot that provides context-aware legal information under Indian law using document embeddings, semantic search, and conversational memory.',
       tech: ['Mistral-7B', 'LangChain', 'FAISS', 'Python', 'Streamlit'],
-      github: 'https://github.com/yourusername/ai-legal-chatbot',
+      github: 'https://github.com/cynxtl/LegalEagle',
     },
     {
       name: 'DeFi Lending DApp',
       description: 'Decentralized lending platform automating loan creation, funding, and repayment with secure smart contracts and a React-based user interface integrated with MetaMask.',
       tech: ['Solidity', 'Hardhat', 'React', 'Ethers.js'],
-      github: 'https://github.com/yourusername/defi-lending-dapp',
+      github: 'https://github.com/cynxtl/micro-lending-dapp',
     },
     {
       name: 'ClassSync – Mini Classroom ERP',
