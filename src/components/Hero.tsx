@@ -1,7 +1,7 @@
 import { Copy } from 'lucide-react';
 import GithubIcon from '../../updated_icons/Platform=Github, Color=Negative.svg';
 import LinkedinIcon from '../../updated_icons/Platform=LinkedIn, Color=Negative.svg';
-import HuggingFaceIcon from '../../updated_icons/huggingface-color.svg';
+import HuggingFaceIcon from '../../updated_icons/huggingface-final.png';
 import { useState } from 'react';
 
 export function Hero() {
