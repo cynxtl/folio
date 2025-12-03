@@ -5,7 +5,7 @@ import HuggingFaceIcon from '../../updated_icons/huggingface-final.png';
 export function Footer() {
   const socialLinks = [
     { icon: GithubIcon, href: 'https://github.com/cynxtl', label: 'GitHub', isImage: true },
-    { icon: LinkedinIcon, href: 'https://linkedin.com/in/cynstl', label: 'LinkedIn', isImage: true },
+    { icon: LinkedinIcon, href: 'https://linkedin.com/in/arnavkme', label: 'LinkedIn', isImage: true },
     { icon: HuggingFaceIcon, href: 'https://huggingface.co/cynstl', label: 'Hugging Face', isImage: true },
   ];
 

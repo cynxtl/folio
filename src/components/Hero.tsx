@@ -56,7 +56,7 @@ export function Hero() {
                 <a href="https://github.com/cynxtl" target="_blank" rel="noopener noreferrer" aria-label="GitHub" className="inline-flex items-center justify-center h-9 w-9 sm:h-10 sm:w-10 rounded-md hover:bg-slate-800/40 text-slate-300 transition-colors">
                   <img src={GithubIcon as unknown as string} alt="GitHub" className="h-5 w-5" />
                 </a>
-                <a href="https://linkedin.com/in/cynstl" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="inline-flex items-center justify-center h-9 w-9 sm:h-10 sm:w-10 rounded-md hover:bg-slate-800/40 text-slate-300 transition-colors">
+                <a href="https://linkedin.com/in/arnavkme" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" className="inline-flex items-center justify-center h-9 w-9 sm:h-10 sm:w-10 rounded-md hover:bg-slate-800/40 text-slate-300 transition-colors">
                   <img src={LinkedinIcon as unknown as string} alt="LinkedIn" className="h-5 w-5" />
                 </a>
                 <a href="https://huggingface.co/cynstl" target="_blank" rel="noopener noreferrer" aria-label="Hugging Face" className="inline-flex items-center justify-center h-9 w-9 sm:h-10 sm:w-10 rounded-md hover:bg-slate-800/40 text-slate-300 transition-colors">
